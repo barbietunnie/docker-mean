@@ -9,7 +9,7 @@ sleep 2
 # --net="host": attaches the container’s networking stack to the host machine, 
 # so you can easily access the ports used by the app and DB without needing 
 # to expose or map ports.
-docker run -it -d \
+docker run -it \
     --net="host" \
     -v `pwd`:/home/dev/src \
     --name docker-mean-dev \
