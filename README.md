@@ -1,5 +1,4 @@
 ## Setup MEAN environment with Docker
------------------------------------------
 Run the setup script:
 
 `$ ./run.sh`
