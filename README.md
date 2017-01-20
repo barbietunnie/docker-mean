@@ -1,7 +1,7 @@
 ## Setup MEAN environment with Docker
 Run the setup script:
 
-`$ ./run.sh`
+    $ ./run.sh
 
 ### Steps
 1. Confirm that the container is running
